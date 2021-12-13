@@ -1,0 +1,75 @@
+body
+{
+    background-color: antiquewhite;
+}
+#heading
+{
+    background-color: brown;
+    color: antiquewhite;
+    text-align: center;
+    padding: 40px;
+    border: 2px;
+}
+div.scroll
+{
+    background-color: darkred;
+    overflow: hidden;
+    white-space: nowrap;
+}
+div.scroll a
+{
+    display: inline-block;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    text-decoration: underline;
+}
+div.scroll a:hover
+{
+    background-color: lightcoral;
+}
+
+
+
+div.contain_img
+{
+    position: absolute;
+    right: 5%;
+}
+div.image
+{
+    display: block;
+    width: 100%;
+    height: auto;
+}
+div.slideoverlay
+{
+    position: absolute;
+    bottom: 0;
+    left: 90%;
+    right: 0;
+    background-color: brown;
+    overflow: hidden;
+    width: 0;
+    height: 100%;
+    transition: .5s ease;
+}
+div.contain_img:hover .slideoverlay
+{
+    width: 100%;
+    left: 0;
+}
+div.text
+{
+    color: white;
+    font-size: 20px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -webkit-transform: translate(-50%,-50%);
+    -ms-transform: translate(-50%,-50%);
+    -moz-transform: translate(-50%,-50%);
+    -o-transform: translate(-50%,-50%);
+    transform: translate(-50%,-50%);
+    white-space: nowrap;
+}

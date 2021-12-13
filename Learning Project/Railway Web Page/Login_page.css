@@ -1,0 +1,14 @@
+body
+{
+    background-color: antiquewhite;
+}
+
+#heading
+{
+    background-color: brown;
+    color: antiquewhite;
+    text-align: center;
+    padding: 40px;
+    border: 2px;
+}
+
