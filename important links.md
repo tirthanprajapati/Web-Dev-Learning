@@ -8,4 +8,6 @@
 
 5. [Css buttons and decoration link](https://cssbuttons.io/)
 
-6. [Main Menu Html Referce](https://www.w3schools.com/howto/tryit.asp?filename=tryhow_js_collapse_sidebar)
+6. [Main Menu Html Referce 1](https://www.w3schools.com/howto/tryit.asp?filename=tryhow_js_collapse_sidebar)
+
+7. [Main Menu Html Referce 2](https://www.w3schools.com/howto/howto_js_collapse_sidepanel.asp)
