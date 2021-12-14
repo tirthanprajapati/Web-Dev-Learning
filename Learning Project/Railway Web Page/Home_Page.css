@@ -1,9 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Gloria+Hallelujah&family=IBM+Plex+Mono:wght@200&family=Lobster&display=swap');
+*{margin: 0;
+padding: 0;}
 body
 {
     background-color: antiquewhite;
 }
+
+a{
+    text-decoration: none;
+}
+
+#book_lnk
+{
+    font-family: Gloria Hallelujah;
+}
 #heading
 {
+    font-family: IBM Plex Mono;
     background-color: brown;
     color: antiquewhite;
     text-align: center;
@@ -18,11 +31,12 @@ div.scroll
 }
 div.scroll a
 {
+    font-family: Gloria Hallelujah;
     display: inline-block;
     color: white;
     text-align: center;
     padding: 20px;
-    text-decoration: underline;
+    text-decoration: none;
 }
 div.scroll a:hover
 {
@@ -42,25 +56,26 @@ div.image
     width: 100%;
     height: auto;
 }
-div.slideoverlay
+.slideoverlay
 {
     position: absolute;
     bottom: 0;
-    left: 90%;
+    left:100%;
     right: 0;
     background-color: brown;
     overflow: hidden;
     width: 0;
     height: 100%;
-    transition: .5s ease;
+    transition: 2s ease;
 }
-div.contain_img:hover .slideoverlay
+.contain_img:hover .slideoverlay
 {
     width: 100%;
     left: 0;
 }
-div.text
+.text
 {
+    font-family: Gloria Hallelujah;
     color: white;
     font-size: 20px;
     position: absolute;
@@ -72,4 +87,5 @@ div.text
     -o-transform: translate(-50%,-50%);
     transform: translate(-50%,-50%);
     white-space: nowrap;
+    text-decoration: none;
 }
