@@ -15,3 +15,5 @@
 8. [Google Fonts](https://fonts.google.com/)
 
 9. [Css Advence](https://www.w3schools.com/css/css3_borders.asp)
+
+10. [HTML Project Templates](https://www.w3schools.com/css/css_rwd_templates.asp)
