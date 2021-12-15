@@ -18,4 +18,4 @@
 
 10. [HTML Project Templates](https://www.w3schools.com/css/css_rwd_templates.asp)
 
-11. [JAva Script Source](https://www.w3schools.com/js/default.asp)
+11. [Java Script Source](https://www.w3schools.com/js/default.asp)
