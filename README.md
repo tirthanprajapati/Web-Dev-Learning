@@ -1,6 +1,6 @@
 # Web-Dev-Learning
 
-<img src="https://photos.app.goo.gl/sykvPC64KxNCwz8k9">
+<img src="https://ibb.co/YQ948YN">
 
 # Notes
 <p>--> Html and css are for looks in lamen langauage</P>
