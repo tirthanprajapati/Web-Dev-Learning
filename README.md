@@ -13,4 +13,4 @@
 <p>--> W3Scools</P>
 <p>--> Geeks for Geeks</P>
 <p>--> Edx.org</P>
-<p>Java Script programming cource</P>
+<p>ie: Java Script programming cource on edx</P>
