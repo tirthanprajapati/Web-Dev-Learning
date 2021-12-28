@@ -3,14 +3,14 @@
 <img src="https://www.codemithra.com/wp-content/uploads/2020/09/web-design-development-blog-2.jpg">
 
 # Notes
---> Html and css are for looks in lamen langauage
---> JavaScript Can help to make the web page alive
---> If you have learnt java then Java script is somewhat easy because basics of both are nearly same
+<p>--> Html and css are for looks in lamen langauage</P>
+<p>--> JavaScript Can help to make the web page alive</P>
+<p>--> If you have learnt java then Java script is somewhat easy because basics of both are nearly same</P>
 
 # Bibliography
-Majorly I have Learnt through:
---> Books
---> W3Scools
---> Geeks for Geeks
---> Edx.org
-Java Script programming cource
+<p>Majorly I have Learnt through:</P>
+<p>--> Books</P>
+<p>--> W3Scools</P>
+<p>--> Geeks for Geeks</P>
+<p>--> Edx.org</P>
+<p>Java Script programming cource</P>
