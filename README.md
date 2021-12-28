@@ -1,6 +1,6 @@
 # Web-Dev-Learning
 
-<img src="https://www.codemithra.com/wp-content/uploads/2020/09/web-design-development-blog-2.jpg">
+<img src="https://photos.app.goo.gl/sykvPC64KxNCwz8k9">
 
 # Notes
 <p>--> Html and css are for looks in lamen langauage</P>
