@@ -8,9 +8,9 @@
 --> If you have learnt java then Java script is somewhat easy because basics of both are nearly same
 
 # Bibliography
-<h1>Majorly I have Learnt through:</h1>
-<h1>--> Books</h1>
-<h1>--> W3Scools</h1>
-<h1>--> Geeks for Geeks </h1>
-<h1>--> Edx.org </h1>
+Majorly I have Learnt through:
+--> Books
+--> W3Scools
+--> Geeks for Geeks
+--> Edx.org
 Java Script programming cource
