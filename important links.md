@@ -20,4 +20,6 @@
 
 11. [Java Script Source](https://www.w3schools.com/js/default.asp)
 
-12. [HTML Emmet-allows you to work fast in html](https://www.youtube.com/watch?v=EhRPdUv1ZrA)
+12. [HTML Emmet-allows you to work fast in html part 1](https://www.youtube.com/watch?v=EhRPdUv1ZrA)
+
+13. [HTML Emmet-allows you to work fast in html part 2](https://drive.google.com/file/d/1nJjxtHDBkNcSoDsAfQG2H1eEp7BJUrWw/view?usp=sharing)
