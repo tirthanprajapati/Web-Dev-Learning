@@ -19,3 +19,5 @@
 10. [HTML Project Templates](https://www.w3schools.com/css/css_rwd_templates.asp)
 
 11. [Java Script Source](https://www.w3schools.com/js/default.asp)
+
+12. [HTML Emmet-allows you to work fast in html](https://www.youtube.com/watch?v=EhRPdUv1ZrA)
