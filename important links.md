@@ -25,3 +25,5 @@
 13. [HTML Emmet-allows you to work fast in html part 2](https://drive.google.com/file/d/1nJjxtHDBkNcSoDsAfQG2H1eEp7BJUrWw/view?usp=sharing)
 
 14. [Grid layout is important in Desining web pages](https://www.youtube.com/watch?v=A8nDfIt8OJE)
+
+15. [other githubs1](https://github.com/MVRKKSK/design-resources-for-developers)
