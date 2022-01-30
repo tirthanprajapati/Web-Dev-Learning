@@ -27,3 +27,5 @@
 14. [Grid layout is important in Desining web pages](https://www.youtube.com/watch?v=A8nDfIt8OJE)
 
 15. [other githubs1](https://github.com/MVRKKSK/design-resources-for-developers)
+
+16. [more css](https://www.w3schools.com/howto/howto_css_sticky_element.asp)
