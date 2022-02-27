@@ -29,3 +29,5 @@
 15. [other githubs1](https://github.com/MVRKKSK/design-resources-for-developers)
 
 16. [more css](https://www.w3schools.com/howto/howto_css_sticky_element.asp)
+
+17. [Java Script DOM events](https://www.w3schools.com/jsref/dom_obj_event.asp)
