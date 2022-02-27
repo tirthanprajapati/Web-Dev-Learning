@@ -1,5 +1,5 @@
 <h1>
-  <img src="https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/JQuery_logo.svg/220px-JQuery_logo.svg.png"><br>
+  <img src="https://avatars.githubusercontent.com/u/70142?s=280&v=4"><br>
   JQuery Library for JvaScript
 </h1>
   
