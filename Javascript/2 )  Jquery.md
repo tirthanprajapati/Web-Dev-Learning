@@ -1,5 +1,5 @@
-<h1>
-  <img src="https://avatars.githubusercontent.com/u/70142?s=280&v=4" align="center"><br>
+<h1 align="center">
+  <img src="https://avatars.githubusercontent.com/u/70142?s=280&v=4"><br>
   JQuery Library for JvaScript
 </h1>
   
