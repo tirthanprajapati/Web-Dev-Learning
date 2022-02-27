@@ -3,4 +3,5 @@
   JQuery Library for JvaScript
 </h1>
 <p>
-  Jquery is a library that shortens the large syntaxes of JavaScript.
+-->  Jquery is a library that shortens the large syntaxes of JavaScript.
+-->  Majorly all of the Functions are reduce to ($) Sign.
