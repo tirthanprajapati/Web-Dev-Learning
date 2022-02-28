@@ -1,4 +1,4 @@
-<div aligh="center">
+<h1 aligh="center">
   <img src="https://www.javatpoint.com/js/nodejs/images/node-js-tutorial.png><br>
   Node.Js
-</div>
+</h1>
