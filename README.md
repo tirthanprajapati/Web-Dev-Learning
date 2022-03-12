@@ -1,5 +1,5 @@
 <div align="center">
-  <h1># Web-Dev-Learning</h1>
+  <h1>Web-Dev-Learning</h1>
 </div>
 
 <div align="center">
