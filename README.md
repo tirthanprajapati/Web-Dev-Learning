@@ -12,10 +12,9 @@
 <p>--> If you have learnt java then Java script is somewhat easy because basics of both are nearly same</P>
 
 # Bibliography
-<p>Majorly I have Learnt through:</P>
-<p>--> Udemy</P>
-<p>--> Books</P>
-<p>--> W3Scools</P>
-<p>--> Geeks for Geeks</P>
-<p>--> Edx.org</P>
-<p>ie: Java Script programming cource on edx</P>
+<p>Majorly I have Learnt through:</p>
+<p>--> Udemy</p>
+<p>--> Books</p>
+<p>--> W3Scools</p>
+<p>--> Geeks for Geeks</p>
+<p>ie: Java Script programming cource on edx</p>
