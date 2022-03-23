@@ -17,4 +17,3 @@
 <p>--> Books</p>
 <p>--> W3Scools</p>
 <p>--> Geeks for Geeks</p>
-<p>ie: Java Script programming cource on edx</p>
