@@ -1,0 +1,117 @@
+@import url('https://fonts.googleapis.com/css2?family=Gloria+Hallelujah&family=IBM+Plex+Mono:wght@200&family=Lobster&display=swap');
+*{margin: 0;
+padding: 0;}
+body
+{
+    background-color: antiquewhite;
+}
+
+a{
+    text-decoration: none;
+}
+
+#book_lnk
+{
+    font-family: Gloria Hallelujah;
+}
+#heading
+{
+    font-family: IBM Plex Mono;
+    background-color: brown;
+    color: antiquewhite;
+    text-align: center;
+    padding: 40px;
+    border: 2px;
+}
+div.scroll
+{
+    background-color: darkred;
+    overflow: hidden;
+    white-space: nowrap;
+}
+div.scroll a
+{
+    font-family: Gloria Hallelujah;
+    display: inline-block;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    text-decoration: none;
+    overflow: hidden;
+}
+div.scroll a:hover
+{
+    background-color: lightcoral;
+}
+
+button {
+    padding: 1.3em 3em;
+    font-size: 12px;
+    text-transform: uppercase;
+    letter-spacing: 2.5px;
+    font-weight: 500;
+    color: #000;
+    background-color: #fff;
+    border: none;
+    border-radius: 45px;
+    box-shadow: 0px 8px 15px rgba(0, 0, 0, 0.1);
+    transition: all 0.3s ease 0s;
+    cursor: pointer;
+    outline: none;
+   }
+   
+   button:hover {
+    background-color: #2EE59D;
+    box-shadow: 0px 15px 20px rgba(46, 229, 157, 0.4);
+    color: #fff;
+    transform: translateY(-7px);
+   }
+   
+   button:active {
+    transform: translateY(-1px);
+   }
+
+div.contain_img
+{
+    position: absolute;
+    right: 5%;
+}
+div.image
+{
+    display: block;
+    width: 100%;
+    height: auto;
+}
+.slideoverlay
+{
+    position: absolute;
+    bottom: 0;
+    left:100%;
+    right: 0;
+    background-color: brown;
+    overflow: hidden;
+    width: 0;
+    height: 100%;
+    transition: 2s ease;
+}
+.contain_img:hover .slideoverlay
+{
+    width: 100%;
+    left: 0;
+}
+.text
+{
+    font-family: Gloria Hallelujah;
+    color: white;
+    font-size: 20px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -webkit-transform: translate(-50%,-50%);
+    -ms-transform: translate(-50%,-50%);
+    -moz-transform: translate(-50%,-50%);
+    -o-transform: translate(-50%,-50%);
+    transform: translate(-50%,-50%);
+    white-space: nowrap;
+    text-decoration: none;
+}
