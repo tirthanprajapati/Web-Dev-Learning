@@ -1,0 +1,241 @@
+@import url("https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Luckiest+Guy&family=Pacifico&family=Staatliches&display=swap");
+@import url("https://fonts.googleapis.com/css?family=Orbitron&display=swap");
+@import url("https://fonts.googleapis.com/css?family=Hind&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Licorice&display=swap");
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+  background-color: crimson;
+  justify-content: center;
+}
+hr {
+  color: white;
+  width: 80%;
+}
+
+/* HEADING */
+
+#Heading {
+  font-family: "Luckiest Guy";
+  letter-spacing: 2px;
+  font-weight: 1000;
+  padding-top: 1%;
+  padding-bottom: 1%;
+  font-size: 300%;
+  background-color: crimson;
+  text-align: center;
+  padding-left: 1%;
+  color: black;
+  text-shadow: 1px 2px white;
+}
+
+/* HEADING END */
+
+/* HOME PAGE MAIN LOOK */
+
+body {
+  background-image: url(/page/Extras/HOMEPAGESEARCHBAR.jpg);
+  overflow: visible;
+  background-repeat: no-repeat;
+  background-size: cover;
+  overflow: hidden;
+}
+
+#Quotepge {
+  font-family: "Licorice";
+  position: relative;
+  display: block;
+  overflow: hidden;
+  background-color: transparent;
+  color: rgb(0, 0, 0);
+  text-shadow: 2px 2px #c5d4e3;
+  font-size: 100px;
+  left: 30%;
+  top: 30%;
+}
+
+/* HOME PAGE MAIN LOOK END */
+
+/* NAVIGATION BAR */
+
+.sidepanel {
+  width: 0;
+  position: fixed;
+  z-index: 1;
+  height: 100%;
+  top: 0;
+  left: 0;
+  background-color: #111;
+  overflow-x: hidden;
+  transition: 0.5s;
+  padding-top: 60px;
+  box-shadow: 2px 2px white;
+}
+
+.sidepanel a {
+  font-family: "Bebas Neue";
+  padding: 8px 8px 8px 32px;
+  text-decoration: none;
+  font-size: 25px;
+  color: #818181;
+  display: block;
+  transition: 0.1s;
+}
+
+.sidepanel a:hover {
+  color: hsl(0, 0%, 100%);
+}
+
+.sidepanel .closebtn {
+  position: absolute;
+  top: 0;
+  right: 25px;
+  font-size: 36px;
+}
+
+.openbtn {
+  font-family: "Bebas Neue";
+  text-align: center;
+  display: block;
+  position: absolute;
+  top: 2%;
+  left: 1%;
+  width: auto;
+  font-weight: 1000;
+  background-color: rgb(243, 23, 67);
+  border: solid 2px;
+  border-color: rgb(0, 0, 0);
+  border-radius: 5px;
+  padding: 0.5%;
+  font-size: 1rem;
+  cursor: pointer;
+  box-shadow: 1px 1px white;
+}
+.openbtn:active {
+  color: hsl(348, 70%, 38%);
+  transform: translateY(0.2rem);
+}
+.openbtn:hover:not(:disable) {
+  background: antiquewhite;
+  color: white;
+  text-shadow: 0 0.1rem #721616;
+}
+.openbtn:disabled {
+  font-family: "Pacifico";
+  cursor: auto;
+  color: rgb(0, 0, 0);
+}
+
+/* NAVIGATION BAR END */
+
+/* SEARCH BAR */
+
+.Card {
+  position: absolute;
+  text-align: center;
+  left: 40%;
+  top: 50%;
+  color: antiquewhite;
+  padding: 1px;
+  border-radius: 12px;
+  width: 380px;
+  box-shadow: 2px 2px white;
+}
+
+.CardInner {
+  font-family: "Staatliches";
+  font-weight: 300;
+  padding: 16px 16px;
+  background-color: crimson;
+  border-radius: 12px;
+  color: #000000;
+  padding-bottom: 20px;
+  text-align: center;
+}
+
+.container {
+  display: flex;
+}
+
+.Icon {
+  min-width: 46px;
+  min-height: 46px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 12px;
+  margin-right: 12px;
+  box-shadow: -2px -2px 6px rgba(rgb(0, 0, 0), 0.6), 2px 2px 12px #000000;
+}
+.InputContainer {
+  width: 100%;
+}
+
+input {
+  background-color: #e3edf7;
+  padding: 16px 32px;
+  border: none;
+  display: block;
+  font-family: "Orbitron", sans-serif;
+  font-weight: 600;
+  color: #000000;
+  -webkit-appearance: none;
+  transition: all 240ms ease-out;
+  width: 100%;
+}
+
+.InputContainer {
+  --top-shadow: inset 1px 1px 3px #c5d4e3, inset 2px 2px 6px #c5d4e3;
+  --bottom-shadow: inset -2px -2px 4px rgba(255, 255, 255, 0.7);
+  border: 2px solid black;
+  position: relative;
+  border-radius: 2px;
+  overflow: hidden;
+}
+
+/* SEARCH BAR END */
+
+/* ADDING A POLYGON */
+
+#poluggon {
+  top: 916px;
+  background-color: antiquewhite;
+  position: absolute;
+  color: antiquewhite;
+  width: 0%;
+  height: 0%;
+  border-top: 450px solid transparent;
+  border-right: 600px solid crimson;
+  border-bottom: 450px solid transparent;
+}
+#polugon {
+  top: 800px;
+  left: -200px;
+  background-color: antiquewhite;
+  position: absolute;
+  color: antiquewhite;
+  width: 120%;
+  height: 500px;
+  transform: skew(20deg);
+  background: #555;
+}
+
+#Btn {
+  position: absolute;
+  left: 50%;
+  display: inline-block;
+  text-align: center;
+  background-color: aqua;
+  font-size: 50px;
+}
+
+#Btn2 {
+  position: absolute;
+  align-self: center;
+  display: inline-block;
+  text-align: center;
+  background-color: rgb(217, 255, 0);
+  font-size: 50px;
+}
