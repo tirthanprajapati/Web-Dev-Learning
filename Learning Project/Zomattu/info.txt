@@ -1,6 +1,8 @@
 Through this Project im trying to make a full flege website
-like a front end developer + a little of back end element to it.
+like a front end developer a little of back end element to it.
 
-Zomattu is based on web dev projects like HTm,l/Css/Java script
+Zomattu is based on web dev projects like HTml/Css/Java script
 
-Note I havent added database files beaxuse there were too many filles
+Note I havent added database files because there were too many filles
+
+Java script will be added soon
